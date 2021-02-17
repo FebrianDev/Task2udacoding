@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">SimpleApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!--Title-->
+    <string name="login">Login</string>
+    <string name="home">Home</string>
+    <string name="rumus_fisika">Rumus Fisika</string>
+    <string name="konversi_title">Konversi Satuan</string>
+
+    <!--Error Message-->
+    <string name="error">Error!</string>
+    <string name="ok">OK!</string>
+
+    <string name="username_empty">Username tidak boleh kosong!</string>
+    <string name="password_empty">Password tidak boleh kosong!</string>
+    <string name="username_wrong">Username tidak ada!</string>
+    <string name="password_wrong">Password salah!</string>
+    <string name="password_less">Password Tidak Boleh Kurang Dari 6 Digit!</string>
+
+    <string name="field_empty">Field tidak boleh kosong</string>
+    <string name="logout">Logout</string>
+    <string name="input">Input</string>
+    <string name="result">Result</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="hasil">Hasil</string>
+    <string name="hitung">Hitung</string>
+    <string name="tinggi">Tinggi</string>
+    <string name="lebar">Lebar</string>
+    <string name="panjang">Panjang</string>
+    <string name="_0_0">0.0</string>
+    <string name="konversi">Konversi</string>
+
+    <!--List Satuan-->
+    <string-array name="list_satuan">
+        <item>km</item>
+        <item>hm</item>
+        <item>dam</item>
+        <item>m</item>
+        <item>dm</item>
+        <item>cm</item>
+        <item>mm</item>
+    </string-array>
+
+</resources>
